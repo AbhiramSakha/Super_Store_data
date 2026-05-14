@@ -50,6 +50,3 @@ The goal is to transform raw data into **actionable business insights** through 
 - GitHub
 - VS Code
 
----
-
-# 📂 Project Structure
