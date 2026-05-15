@@ -1,3 +1,4 @@
+
 # 🛒 Super Store Data Analysis
 
 A data analytics project that explores **Super Store retail data** to uncover business insights such as sales performance, customer trends, product profitability, and regional performance.
